@@ -1,0 +1,91 @@
+{
+"company":
+{
+"profile":
+{
+"name":"Softline Technologies Limited"
+ "Type":"Public"
+ "Industry":"IT services"
+ "Founded":1998
+ "Founder":"N.S.Parekh"
+ "Headquarters":"Pune"
+ "Area served":"worldwide"
+ "Number of employees":200
+ "Website":"www.softlinetech.com"
+ }
+ "Departments":{
+ [
+ "Designing":[
+ {"name":"S.Iyyer",
+ "email":"siyyer25@softlinetech.com",
+ "post":"Head of department"},
+ {"name":"N.Sharma",
+ "email":"nsharma@softlinetech.com",
+ "post":" Manager"},
+ {"name":"K.Gopikrishnan",
+ "email":"gopikrishnan@softlinettech.com",
+ "post":"Assistant Manager"}]
+ 
+ "coding":
+ [
+ {"name":"S.Gupta",
+ "email":"gupta2325@softlinetech.com",
+ "post":"Head of department"},
+ {"name":"N.K.Sharma",
+ "email":"sharma@softlinetech.com",
+ "post":" Manager"},
+ {"name":"K.Ravi",
+ "email":"ravi@softlinettech.com",
+ "post":"Assistant Manager"}]
+ 
+ "testing":
+ [
+ {"name":"S.Pooja",
+ "email":"pooja2325@softlinetech.com",
+ "post":"Head of department"},
+ {"name":"G.Shaha",
+ "email":"shaha@softlinetech.com",
+ "post":" Manager"},
+ {"name":"D.Singh",
+ "email":"singh@softlinettech.com",
+ "post":"Assistant Manager"}]
+ 
+ "Marketing":
+ [
+ {"name":"A.Jain",
+ "email":"gupta2325@softlinetech.com",
+ "post":"Head of department"},
+ {"name":"P.R.Shaha",
+ "email":"shaha@softlinetech.com",
+ "post":" Manager"},
+ {"name":"P.P.Gupta",
+ "email":"guptap@softlinettech.com",
+ "post":"Assistant Manager"}]
+ 
+ "Advertising":
+ [
+ {"name":"S.Khan",
+ "email":"skhan@softlinetech.com",
+ "post":"Head of department"},
+ {"name":"P.Varma","email":"varma@softlinetech.com",
+ "post":" Manager"},
+ {"name":"P.P.Kulkarni",
+ "email":"kulkarni@softlinettech.com",
+ "post":"Assistant Manager"}]
+ 
+ 
+ ]
+ 
+ }
+ "Facilietes for employees":
+ [
+ "Employees Traning",
+ "Recreation Facilities",
+ "Events",
+ "Insurance and security Facilities",
+ "Withinsy",
+ "Transport Facilities",
+ "Reward system",
+ "ESOP"]
+ }
+ }
