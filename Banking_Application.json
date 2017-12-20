@@ -20,7 +20,7 @@
 	"myMenu": {
 		"accountSummary": {
 			"accountNummber": "12342345122331",
-			"avaialableBalance": "234532",
+			"availableBalance": "234532",
 			"branch": "Railway Lines",
 			"name": "HARSH MEHTA",
 			"currency": "INR"
@@ -30,12 +30,12 @@
 			"toDate": "",
 			"noOfTransactionsPerPage": "10"
 		},
-		"openFixedDeposit": {
+		"openFixedDeposit_lt5cr": {
 			"fromAccount": "",
 			"placeOfFD": "Home Branch",
 			"amountOfFD": "",
 			"natureOfDeposit": {
-				"days": {
+				"days_7to180": {
 					"minTerm": "7 days",
 					"maxTerm": "180 days",
 					"minAmount": "10000",
