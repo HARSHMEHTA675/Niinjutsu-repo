@@ -1,3 +1,4 @@
+
 class Animal():
      name ='Tom'
      color='black'
@@ -29,7 +30,7 @@ class Cat(Animal):
 
 obj1=Dog()
 print('Dog :')
-obj1.name
+print(obj1.name)
 obj1.eat()
 obj1.get_color()
 obj1.get_hair()
@@ -38,9 +39,7 @@ obj1.bark()
 print('Cat :')
 
 obj2=Cat()
-obj2.name
+print(obj2.name)
 obj2.get_color()
 obj2.looks()
-        
-    
-      
+#print(obj2.eyes)
