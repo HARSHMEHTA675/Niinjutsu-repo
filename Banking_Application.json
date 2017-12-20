@@ -1,0 +1,83 @@
+{
+	"personalDetails": {
+		"branchName": "Railway Lines",
+		"phone": "0217-231664",
+		"branchE-MailID": "hdfcchala@hdfc.com",
+		"ifsc": "HDFS56",
+		"accountNumber": "10145635455435",
+		"accountName": "HARSH MEHTA",
+
+
+		"address": {
+			"streetAddress": "plot no -5 Ashok Chowk",
+			"city": "Vapi",
+			"pinCode": "396191",
+			"state": "Gujrat"
+		},
+		"a/cOpeningDate": "24-08-12"
+	},
+
+	"myMenu": {
+		"accountSummary": {
+			"a/cNummber": "12342345122331",
+			"avaialableBalance": "234532",
+			"branch": "Railway Lines",
+			"name": "HARSH MEHTA",
+			"currency": "INR"
+		},
+		"statementEnquiry": {
+			"fromDate(dd/mm/yy)": "",
+			"toDate(dd/mm/yy)": "",
+			"noOfTransactionsPerPage": "10"
+		},
+		"openFixedDeposit<Rs5cr": {
+			"fromAccount": "",
+			"placeOfFD": "Home Branch",
+			"amountOfFD": "",
+			"natureOfDeposit": {
+				"days(7to180)": {
+					"minTerm": "7 days",
+					"maxTerm": "180 days",
+					"minAmount": "10000",
+					"maxAmount": "49999999"
+				},
+				"depositPeriod": {
+					"months": "",
+					"days": "",
+					"maturityInstructions": "",
+					"interestPayable": "",
+					"interestPayableMode": ""
+
+				}
+			}
+		},
+		"fdSummary": {
+			"fdAccountNumber": "54542234",
+			"maturityAmount": "45633",
+			"maturityDate": "04-05-18",
+			"branch": "Home Branch",
+			"currency": "INR",
+			"depositStartDate": "04-05-17",
+			"principalAmount": "43000",
+			"rateOfInterest": "6.00"
+		},
+
+		"thirdPartyTransfer": {
+			"neft": {
+				"fromAccount": "",
+				"toAccount": "",
+				"amount": "",
+				"particulars": ""
+			},
+			"imps": {
+				"fromAccount": "",
+				"toAccount": "",
+				"amount": "",
+				"particulars": ""
+			},
+			"withinBank": "",
+			"visaPayDirect": ""
+		}
+
+	}
+}
