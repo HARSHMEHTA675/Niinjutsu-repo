@@ -26,16 +26,16 @@
 			"currency": "INR"
 		},
 		"statementEnquiry": {
-			"fromDate": "(dd/mm/yy)",
-			"toDate": "(dd/mm/yy)",
+			"fromDate": "",
+			"toDate": "",
 			"noOfTransactionsPerPage": "10"
 		},
-		"openFixedDeposit<Rs5cr": {
+		"openFixedDeposit": {
 			"fromAccount": "",
 			"placeOfFD": "Home Branch",
 			"amountOfFD": "",
 			"natureOfDeposit": {
-				"days(7to180)": {
+				"days": {
 					"minTerm": "7 days",
 					"maxTerm": "180 days",
 					"minAmount": "10000",
