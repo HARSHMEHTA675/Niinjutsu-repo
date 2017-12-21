@@ -1,0 +1,101 @@
+{
+	"Company": {
+		"Profile": {
+			"Name": "Softline Technologies Limited",
+			"Type": "Public",
+			"Industry": "IT Services",
+			"Founded": 1998,
+			"Founder": "N. S. Parekh",
+			"Headquarters": "Pune",
+			"AreaServed": "Worldwide",
+			"NumberOfEmployees": 200,
+			"Website": "www.softlinetech.com"
+		},
+		"Departments": {
+
+			"Designing": [{
+					"Name": "S. Iyyer",
+					"Email": "siyyer25@softlinetech.com",
+					"Post": "HeadOfDepartment"
+				},
+				{
+					"Name": "N. Sharma",
+					"Email": "nsharma@softlinetech.com",
+					"Post": " Manager"
+				},
+				{
+					"Name": "K. Gopikrishnan",
+					"Email": "gopikrishnan@softlinettech.com",
+					"Post": "AssistantManager"
+				}
+			],
+			"coding": [{
+					"Name": "S. Gupta",
+					"Email": "gupta2325@softlinetech.com",
+					"Post": "HeadOfDepartment"
+				},
+				{
+					"Name": "N. K. Sharma",
+					"Email": "sharma@softlinetech.com",
+					"post": "Manager"
+				},
+				{
+					"Name": "K. Ravi",
+					"Email": "ravi@softlinettech.com",
+					"Post": "Assistant Manager"
+				}
+			],
+
+			"testing": [{
+					"Name": "S. Pooja",
+					"Email": "pooja2325@softlinetech.com",
+					"Post": "HeadOfDepartment"
+				},
+				{
+					"Name": "G. Shaha",
+					"Email": "shaha@softlinetech.com",
+					"Post": " Manager"
+				},
+				{
+					"Name": "D. Singh",
+					"Email": "singh@softlinettech.com",
+					"Post": "AssistantManager"
+				}
+			],
+			"Marketing": [{
+					"Name": "A. Jain",
+					"Email": "gupta2325@softlinetech.com",
+					"Post": "HeadOfDepartment"
+				},
+				{
+					"Name": "P. R. Shaha",
+					"Email": "shaha@softlinetech.com",
+					"Post": " Manager"
+				},
+				{
+					"Name": "P. P. Gupta",
+					"Email": "guptap@softlinettech.com",
+					"Post": "AssistantManager"
+				}
+			],
+
+			"Advertising": [{
+					"Name": "S. Khan",
+					"email": "skhan@softlinetech.com",
+					"post": "HeadOfDepartment"
+				},
+				{
+					"Name": "P. Varma",
+					"Email": "varma@softlinetech.com",
+					"Post": " Manager"
+				},
+				{
+					"Name": "P. P. Kulkarni",
+					"Email": "kulkarni@softlinettech.com",
+					"Post": "AssistantManager"
+				}
+			]
+		}
+
+	}
+}
