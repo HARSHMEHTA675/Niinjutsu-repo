@@ -1,22 +1,22 @@
 {"mart":{
 "name":"D-mart"
-	{"Food":
+	{"food":
 		["Vegetables","Grocery items","Ready mix"],
-	"Utensils":
+	"utensils":
 		["Plastic utensils","Steel utensils","Copper utensils","Aluminium utensils"],
-	"Cosmatics":
+	"cosmatics":
 		["Men's section","women's section"],
-	"Clothes":
+	"clothes":
 		["Children's section","Adult section"],
-	"Fashion garments";
+	"fashionGarments":
 		["men's":
 			["Watches","Braselets"],
 		"women's":
 			["bangels","Anklets"],
 		],
-	"Stationary":
+	"stationary":
 		["Notebook","Book","Pencil","pen.."],
-	"Footwear":
+	"footwear":
 		{"section":["Children's","men's","women's"]}
 	}
 	}
